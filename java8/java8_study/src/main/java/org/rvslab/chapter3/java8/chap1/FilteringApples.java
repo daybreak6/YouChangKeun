@@ -9,7 +9,8 @@ import java.util.function.Predicate;
 
 /*
 * 2018.06.26
-* daybr
+* daybreak6 챕터1 스터디 시작
+* 유창근
 * */
 @Slf4j
 public class FilteringApples implements defaultInteface {
