@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="createEmptyContentRootDirectories" value="true" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/chapter3" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../util/gradle-4.5.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/chapter3" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="createEmptyContentRootDirectories" value="true" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/dashboard" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../util/gradle-4.5.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/dashboard" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="createEmptyContentRootDirectories" value="true" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/dataetl" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../util/gradle-4.5.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/dataetl" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="createEmptyContentRootDirectories" value="true" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/eureka" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../util/gradle-4.5.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/eureka" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="createEmptyContentRootDirectories" value="true" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/msa" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../util/gradle-4.5.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/msa" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="createEmptyContentRootDirectories" value="true" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/swagger" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../util/gradle-4.5.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/swagger" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

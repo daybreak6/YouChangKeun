@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="dashboardDb" uuid="8abfca6a-09e2-43d0-b755-c3b70d73f233">
+      <driver-ref>h2.unified</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>hystrix Dashboard</remarks>
+      <jdbc-driver>org.h2.Driver</jdbc-driver>
+      <jdbc-url>jdbc:h2:file:$PROJECT_DIR$/../../../util/h2db/dashboard.mv.db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="MSA" uuid="afeaa862-3014-4ead-a131-c8869a3e2e32">
+      <driver-ref>h2.unified</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>hystrix Msa</remarks>
+      <jdbc-driver>org.h2.Driver</jdbc-driver>
+      <jdbc-url>jdbc:h2:file:$PROJECT_DIR$/../../../util/h2db/testdb.mv.db</jdbc-url>
+    </data-source>
+  </component>
+</project>

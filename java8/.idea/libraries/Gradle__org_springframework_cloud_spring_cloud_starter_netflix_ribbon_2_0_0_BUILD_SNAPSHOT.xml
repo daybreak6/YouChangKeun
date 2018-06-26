@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.cloud:spring-cloud-starter-netflix-ribbon:2.0.0.BUILD-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-netflix-ribbon/2.0.0.BUILD-SNAPSHOT/e278cdc558e0858a83fe2b7a7d988ada48eddc9a/spring-cloud-starter-netflix-ribbon-2.0.0.BUILD-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-netflix-ribbon/2.0.0.BUILD-SNAPSHOT/908a51c0506e6b0ddcc2483c7f7f9b0fa2ac072c/spring-cloud-starter-netflix-ribbon-2.0.0.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-netflix-ribbon/2.0.0.BUILD-SNAPSHOT/f9f6da9fb61a4a40777c1ebe4777a4a71d3eb0e4/spring-cloud-starter-netflix-ribbon-2.0.0.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-netflix-ribbon/2.0.0.BUILD-SNAPSHOT/45cfd4ea52dcfc086aa87c072708a5afd946a669/spring-cloud-starter-netflix-ribbon-2.0.0.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-netflix-ribbon/2.0.0.BUILD-SNAPSHOT/9f1aed90efcb25061ce845827270ace54ecbfd3e/spring-cloud-starter-netflix-ribbon-2.0.0.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-netflix-ribbon/2.0.0.BUILD-SNAPSHOT/152c82191ebde9db10f312cf471224a7e24f2645/spring-cloud-starter-netflix-ribbon-2.0.0.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-netflix-ribbon/2.0.0.BUILD-SNAPSHOT/64eefbf4ccaa089e4f728c830e1b1f84869ef54c/spring-cloud-starter-netflix-ribbon-2.0.0.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-netflix-ribbon/2.0.0.BUILD-SNAPSHOT/7522d61cdde27242e18ffd71d432ffa09b64b6ef/spring-cloud-starter-netflix-ribbon-2.0.0.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-netflix-ribbon/2.0.0.BUILD-SNAPSHOT/ee759ccbde228528e460a660cebe945f23ab0fb3/spring-cloud-starter-netflix-ribbon-2.0.0.BUILD-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

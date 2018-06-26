@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/chapter3/chapter3.iml" filepath="$PROJECT_DIR$/chapter3/chapter3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chapter3_main.iml" filepath="$PROJECT_DIR$/.idea/modules/chapter3_main.iml" group="chapter3" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chapter3_test.iml" filepath="$PROJECT_DIR$/.idea/modules/chapter3_test.iml" group="chapter3" />
+      <module fileurl="file://$PROJECT_DIR$/dashboard/dashboard.iml" filepath="$PROJECT_DIR$/dashboard/dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dashboard_main.iml" filepath="$PROJECT_DIR$/.idea/modules/dashboard_main.iml" group="dashboard" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dashboard_test.iml" filepath="$PROJECT_DIR$/.idea/modules/dashboard_test.iml" group="dashboard" />
+      <module fileurl="file://$PROJECT_DIR$/dataetl/dataetl.iml" filepath="$PROJECT_DIR$/dataetl/dataetl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dataetl_main.iml" filepath="$PROJECT_DIR$/.idea/modules/dataetl_main.iml" group="dataetl" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dataetl_test.iml" filepath="$PROJECT_DIR$/.idea/modules/dataetl_test.iml" group="dataetl" />
+      <module fileurl="file://$PROJECT_DIR$/eureka/eureka.iml" filepath="$PROJECT_DIR$/eureka/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka_main.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka_main.iml" group="eureka" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka_test.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka_test.iml" group="eureka" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module-dataetl_main.iml" filepath="$PROJECT_DIR$/.idea/modules/module-dataetl_main.iml" group="dataetl" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module-dataetl_test.iml" filepath="$PROJECT_DIR$/.idea/modules/module-dataetl_test.iml" group="dataetl" />
+      <module fileurl="file://$PROJECT_DIR$/msa/msa.iml" filepath="$PROJECT_DIR$/msa/msa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/msa_main.iml" filepath="$PROJECT_DIR$/.idea/modules/msa_main.iml" group="msa" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/msa_test.iml" filepath="$PROJECT_DIR$/.idea/modules/msa_test.iml" group="msa" />
+      <module fileurl="file://$PROJECT_DIR$/swagger/swagger.iml" filepath="$PROJECT_DIR$/swagger/swagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/swagger_main.iml" filepath="$PROJECT_DIR$/.idea/modules/swagger_main.iml" group="swagger" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/swagger_test.iml" filepath="$PROJECT_DIR$/.idea/modules/swagger_test.iml" group="swagger" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:2.0.0.BUILD-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-netflix-eureka-client/2.0.0.BUILD-SNAPSHOT/6940fb5341cb8052ca0a11fa5aec6d5a47f998dd/spring-cloud-starter-netflix-eureka-client-2.0.0.BUILD-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-netflix-eureka-client/2.0.0.BUILD-SNAPSHOT/d18d2d91a2270f2c4202d2dda79a400478ce4cfe/spring-cloud-starter-netflix-eureka-client-2.0.0.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-netflix-eureka-client/2.0.0.BUILD-SNAPSHOT/7ffd023e1254ce0e1e46dccecfa140d8809e148e/spring-cloud-starter-netflix-eureka-client-2.0.0.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-netflix-eureka-client/2.0.0.BUILD-SNAPSHOT/476c39db1455567ddac5d57d7ad579af34e81587/spring-cloud-starter-netflix-eureka-client-2.0.0.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-netflix-eureka-client/2.0.0.BUILD-SNAPSHOT/6fcd2927476f2fea37214ccc550db232d1107c56/spring-cloud-starter-netflix-eureka-client-2.0.0.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-netflix-eureka-client/2.0.0.BUILD-SNAPSHOT/a7cba15e4b5c7c6c7704d229361479c05f94d8bd/spring-cloud-starter-netflix-eureka-client-2.0.0.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-netflix-eureka-client/2.0.0.BUILD-SNAPSHOT/f4acbde63ede0c4c91eca2eb82207b08280ce24d/spring-cloud-starter-netflix-eureka-client-2.0.0.BUILD-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

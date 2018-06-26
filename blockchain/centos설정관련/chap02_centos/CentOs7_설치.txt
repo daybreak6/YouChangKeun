@@ -1,0 +1,46 @@
+cnetos7 환경 설정
+
+
+-------------GoLang 1.9.2 설치------------------
+1. yum install git -y
+
+2. git clone https://github.com/jamesarems/gocentos.git
+
+3. cd gocentos
+
+4. InstallGo.sh 파일 열어서 go1.9.1 파일을 1.9.2버전으로 변경
+
+5. sh InstallGo.sh
+
+6. yum install gmp-devel
+
+7. which geth 
+
+8. which go
+
+-------------GoLang1.9.2환경변수 설정-------------
+
+1. env
+
+2. echo $PATH
+
+3. export PATH=$PATH:/usr/local/go/bin
+
+4. 혹은 /etc/profile 마지막에 등록해도 무관.
+
+
+--------책 예제 설치------
+
+1. git clone https://github.com/ethereum/go-ethereum.git
+
+2. cd go-ethereum
+
+3. make geth
+
+4. geth version
+
+
+
+
+
+

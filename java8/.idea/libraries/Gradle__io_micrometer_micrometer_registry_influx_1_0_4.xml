@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.micrometer:micrometer-registry-influx:1.0.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micrometer/micrometer-registry-influx/1.0.4/db983083a5ed52ba0d0201b501a29364c6adaaac/micrometer-registry-influx-1.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micrometer/micrometer-registry-influx/1.0.4/8f5c50926081092869da85eeb0a99412331b500/micrometer-registry-influx-1.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

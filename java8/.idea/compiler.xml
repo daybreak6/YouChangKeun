@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="chapter3_main" target="1.8" />
+      <module name="chapter3_test" target="1.8" />
+      <module name="dashboard_main" target="1.8" />
+      <module name="dashboard_test" target="1.8" />
+      <module name="dataetl_main" target="1.8" />
+      <module name="dataetl_test" target="1.8" />
+      <module name="eureka_main" target="1.8" />
+      <module name="eureka_test" target="1.8" />
+      <module name="module-dataetl_main" target="1.8" />
+      <module name="module-dataetl_test" target="1.8" />
+      <module name="module-msa_main" target="1.8" />
+      <module name="module-msa_test" target="1.8" />
+      <module name="msa_main" target="1.8" />
+      <module name="msa_test" target="1.8" />
+      <module name="swagger_main" target="1.8" />
+      <module name="swagger_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

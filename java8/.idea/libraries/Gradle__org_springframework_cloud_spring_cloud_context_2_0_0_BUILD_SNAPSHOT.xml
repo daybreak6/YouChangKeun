@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.cloud:spring-cloud-context:2.0.0.BUILD-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-context/2.0.0.BUILD-SNAPSHOT/9faf695c8b87ec29153712286338dffa362c9f7b/spring-cloud-context-2.0.0.BUILD-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-context/2.0.0.BUILD-SNAPSHOT/e45c0e10eca0dde88fd6ac6e2ad9c9e5f9c2a8ca/spring-cloud-context-2.0.0.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-context/2.0.0.BUILD-SNAPSHOT/549a357d04aa30a0235802d2b6857a7797e6a8a6/spring-cloud-context-2.0.0.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-context/2.0.0.BUILD-SNAPSHOT/40ea21d7cfb835cfe525b716673b67bc79e37ad5/spring-cloud-context-2.0.0.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-context/2.0.0.BUILD-SNAPSHOT/b680629ba6e6d4627364c5e7c148c218878cb44d/spring-cloud-context-2.0.0.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-context/2.0.0.BUILD-SNAPSHOT/12e4fee6d260999f2ba732c2b76ebc235b8dec3/spring-cloud-context-2.0.0.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-context/2.0.0.BUILD-SNAPSHOT/4001a57ed48512ec55858ddb5ef3ec218f899a15/spring-cloud-context-2.0.0.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-context/2.0.0.BUILD-SNAPSHOT/4148abc094dfa86113fc6e16c8c453d412f38004/spring-cloud-context-2.0.0.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-context/2.0.0.BUILD-SNAPSHOT/6ed0f9748b56f9dee63581fe319bc6f867a1ad0f/spring-cloud-context-2.0.0.BUILD-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

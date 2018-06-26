@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.cloud:spring-cloud-netflix-archaius:2.0.0.BUILD-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-archaius/2.0.0.BUILD-SNAPSHOT/fc91ebe5158fb0f02c19a57005b52b9bc16821cc/spring-cloud-netflix-archaius-2.0.0.BUILD-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-archaius/2.0.0.BUILD-SNAPSHOT/25ffd0f0b4470c67e5ad243ab81325501801eeb2/spring-cloud-netflix-archaius-2.0.0.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-archaius/2.0.0.BUILD-SNAPSHOT/e3e4fd53a5910fc87af0afe001d1012071e65ae1/spring-cloud-netflix-archaius-2.0.0.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-archaius/2.0.0.BUILD-SNAPSHOT/7ebf5b21162f4b49e9977560c0e2a456d204c46a/spring-cloud-netflix-archaius-2.0.0.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-archaius/2.0.0.BUILD-SNAPSHOT/b71f3a97bc39ed9e1f37d832dfd6f7674341f4fe/spring-cloud-netflix-archaius-2.0.0.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-archaius/2.0.0.BUILD-SNAPSHOT/c9755773324484e37cfaa0e7cfe559fe7d64aa87/spring-cloud-netflix-archaius-2.0.0.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-archaius/2.0.0.BUILD-SNAPSHOT/e38648331e9e706adc8144ea1d63ce8dc4764e88/spring-cloud-netflix-archaius-2.0.0.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-archaius/2.0.0.BUILD-SNAPSHOT/39ad323fdb588a33ae48578d65d5bd2ec8f00527/spring-cloud-netflix-archaius-2.0.0.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-archaius/2.0.0.BUILD-SNAPSHOT/3b7b8c935e06b7c5057e3c91c3099039d5816e63/spring-cloud-netflix-archaius-2.0.0.BUILD-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

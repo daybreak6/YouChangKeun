@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.cloud:spring-cloud-starter-netflix-hystrix:2.0.0.BUILD-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-netflix-hystrix/2.0.0.BUILD-SNAPSHOT/ae46f33b3bf11231f5666f58db8d3772c808aaf2/spring-cloud-starter-netflix-hystrix-2.0.0.BUILD-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-netflix-hystrix/2.0.0.BUILD-SNAPSHOT/b9288d19adaf0cddb46dbf23597e88923fa64972/spring-cloud-starter-netflix-hystrix-2.0.0.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-netflix-hystrix/2.0.0.BUILD-SNAPSHOT/768bb3b308b0abf5cc892fae35b73582d28170db/spring-cloud-starter-netflix-hystrix-2.0.0.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-netflix-hystrix/2.0.0.BUILD-SNAPSHOT/e6c2c3a2c908db6aec9d7bc53d3224a04459e0fb/spring-cloud-starter-netflix-hystrix-2.0.0.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-netflix-hystrix/2.0.0.BUILD-SNAPSHOT/6ea12d2b1e4001d475a2ba7717107c82b5b020e2/spring-cloud-starter-netflix-hystrix-2.0.0.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-netflix-hystrix/2.0.0.BUILD-SNAPSHOT/d7b93aeadfb1fa72ebe7f5f0656c2ee59be884c4/spring-cloud-starter-netflix-hystrix-2.0.0.BUILD-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
