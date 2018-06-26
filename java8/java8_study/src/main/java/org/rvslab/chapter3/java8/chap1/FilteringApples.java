@@ -9,7 +9,7 @@ import java.util.function.Predicate;
 
 /*
 * 2018.06.26
-* daybreak6 챕터1 스터디 시작
+* daybreak6 챕터1 스터디 시작  
 * 유창근
 * */
 @Slf4j
